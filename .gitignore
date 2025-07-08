@@ -1,0 +1,16 @@
+/target
+Cargo.lock
+*logs
+.vscode
+*.rs.bk
+*.rs.swp
+*.rs.swo
+*.rs.save
+*.rs.save.*
+*.rs.save.bk
+*.rs.save.swp
+*.rs.save.swo
+.env
+Cargo.config
+
+# Ignore all these files
