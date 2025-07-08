@@ -1,0 +1,9 @@
+[package]
+name = "devcli"
+version = "1.2.0"
+edition = "2021"
+
+[dependencies]
+clap = { version = "4", features = ["derive"] }
+sysinfo = "0.35.2"
+colored = "3.0.0"
