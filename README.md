@@ -23,8 +23,8 @@ DevCLI is a professional-grade, fast, and extensible developer CLI tool, written
 ### From source
 
 ```bash
-git clone https://github.com/AaYuSh11233/DevPilot.git
-cd DevPilot
+git clone https://github.com/AaYuSh11233/DevCLI.git
+cd DevCLI
 cargo install --path .
 ```
 
